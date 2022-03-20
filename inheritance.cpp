@@ -23,8 +23,7 @@ public:
     int languageCode = 9;
 }
 
-int
-main()
+int main()
 {
     Employee yash(1), rashi(2);
     cout << yash.salary << endl;
