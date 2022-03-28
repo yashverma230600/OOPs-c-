@@ -8,9 +8,8 @@ void printarr(int arr[5]){
         cout<<arr[i]<<"\n";
     }
 }
-
 int main(){
     int arr[5] = {1,2,3,4,5};
     printarr(arr);
-    return 0;
+  
 }
