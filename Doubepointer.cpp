@@ -16,5 +16,10 @@ int main(){
     cout<<"Printing 2nd pointer ptr2"<<ptr2<<endl;
     cout<<"address of 2nd pointer ptr"<<&ptr2<<endl;
 
+
+    cout<<i<<endl;
+    cout<<*ptr<<endl;
+    cout<< **ptr2 <<endl;
+
 return 0;
 }
