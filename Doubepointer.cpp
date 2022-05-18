@@ -22,4 +22,4 @@ int main(){
     cout<< **ptr2 <<endl;
 
 return 0;
-}
+} 
