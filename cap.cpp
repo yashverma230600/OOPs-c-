@@ -33,15 +33,15 @@ bool isValid(string email){
             str2 = email[i];
         }
         if(str == "com"){
-            return true;
+          return true;
         }
         else{
-            return false;
+           return false;
         }
     }
 
-    return false;
-
+    
+ return true;
 
 }
 int main(){
