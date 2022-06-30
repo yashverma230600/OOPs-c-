@@ -17,9 +17,9 @@ class B {
 };
 class D{
     public:
-        D()[
+        D(){
             cout<<"Constructor of C"<<endl;
-        ]
+        }
 };
 
 class C : public A,public B{
