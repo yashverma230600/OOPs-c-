@@ -4,6 +4,9 @@
 using namespace std;
 
 int search(int arr[],int l,int h,int key){
+
+
+    
     if(l>h)
         return -1;
     int mid=(l+h)/2;
